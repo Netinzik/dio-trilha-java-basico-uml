@@ -1,6 +1,7 @@
 # dio-trilha-java-basico-uml
 ```mermaid
-class ReprodutorMusical {
+classDiagram
+    class ReprodutorMusical {
         +tocar()
         +pausar()
         +selecionarMusica(String musica)
